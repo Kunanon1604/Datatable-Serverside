@@ -1,5 +1,5 @@
 # Laravel DataTables Serverside with Ajax
 
-** Example DB have in db folder in project.
+** Example DB have in sql folder in project.
 
 **Thank You Everyone.
